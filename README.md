@@ -71,6 +71,7 @@ via markdown (geen mogelijkheid om te openen in een nieuw tabblad)
 ### Pagina breaks  
 
 Je kan een horizontale lijn toevoegen door `---` op een nieuwe regel te typen.
+<br>
 ---
 
 Om een enter in markdown te doen, moet je 2x op spatie drukken achter de lijn die je geschreven hebt. Als alternatief kan je `<br>` gebruiken indien je dit makkelijker vind.
