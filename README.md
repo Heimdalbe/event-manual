@@ -68,7 +68,7 @@ via markdown (geen mogelijkheid om te openen in een nieuw tabblad)
 `![<beschrijving>](<link naar afbeelding>)`  
 ![Heimdal logo](https://heimdal.be/static/img/Heimdal%20Banner%20black.png)
 
-### Pagina breaks
+### Pagina breaks  
 
 Je kan een horizontale lijn toevoegen door `---` op een nieuwe regel te typen.
 ---
